@@ -86,8 +86,7 @@ Nike website > https://www.nike.com/nl/
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Bezig geweest met de bovenkant van de website en de eerste knoppen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
