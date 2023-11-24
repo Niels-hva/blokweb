@@ -91,7 +91,7 @@ Bezig geweest met de bovenkant van de website en de eerste knoppen.
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-Quinten:
+Quinten Weijmer:
   - Moet een form om mee te zoeken in de header of er buiten?
   - Hoe maak ik dingen klikbaar zonder meer dan 1 html pagina?
   - Hoe spreek ik mijn gewenste images aan? Ze zitten allemaal boven een h3 dus mis kan ik daar wat mee.
@@ -105,6 +105,10 @@ Niels Lehman:
 - ik wil weten hoe ik de knoppen beter kan centreren en de specifieke vormgeving aan kan passen
 - weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier
 - hoe kan ik de screenreader goed maken
+
+Merle van Alen:
+- Hoe kan ik ervoor zorgen dat de carousel iedere keer 1 foto opschuift?
+- Hoe kan ik op een nette manier fontface gebruiken om nieuwe fonts en font weights toe te voegen?
   
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
