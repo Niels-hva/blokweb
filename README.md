@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
@@ -31,7 +31,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
-<details open>
+<details >
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
@@ -55,7 +55,13 @@ Nike website > https://www.nike.com/nl/
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+- De code bevat veel errors.
+- Op de homepagina is het niet helemaal duidelijk hoe je een artikel of product selecteerd.
+- Filmpjes kunnen niet gepauzeerd worden.
+- De controls zijn niet altijd even duidelijk.
+- De website bevat niet veel animaties.
+- Dark en lightmode worden niet ondersteund.
+- Tekstvergroten is ook niet mogelijk.
 </details>
 
 
@@ -82,41 +88,46 @@ Nike website > https://www.nike.com/nl/
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
 Bezig geweest met de bovenkant van de website en de eerste knoppen.
 
+
+
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-Quinten:
-  - Moet een form om mee te zoeken in de header of er buiten?
-  - Hoe maak ik dingen klikbaar zonder meer dan 1 html pagina?
-  - Hoe spreek ik mijn gewenste images aan? Ze zitten allemaal boven een h3 dus mis kan ik daar wat mee.
-  - Marquee, hoe werkt het met screenreader en hoe maak ik drie verschillende berichtjes?
+samen met je groepje opstellen
 
-Ahmadriza: 
- - Ik wil weten hoe je een video/annimatie van de inspector kunt halen. Bij mijn site is dat nog ingewikkeld. 
- - Hoe de li in de nav zo tonen dat op mobiel formaat het verdwijnt in de dropdown menu en bij desktop wel zichrbaar is
+Quinten:
+
+- Moet een form om mee te zoeken in de header of er buiten?
+- Hoe maak ik dingen klikbaar zonder meer dan 1 html pagina?
+- Hoe spreek ik mijn gewenste images aan? Ze zitten allemaal boven een h3 dus mis kan ik daar wat mee.
+- Marquee, hoe werkt het met screenreader en hoe maak ik drie verschillende berichtjes?
+
+Ahmadriza:
+- Ik wil weten hoe je een video/annimatie van de inspector kunt halen. Bij mijn site is dat nog ingewikkeld.
+- Hoe de li in de nav zo tonen dat op mobiel formaat het verdwijnt in de dropdown menu en bij desktop wel zichrbaar is
 
 Niels:
-- ik wil weten hoe ik de knoppen beter kan centreren en de specifieke vormgeving aan kan passen
-- weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier
-- hoe kan ik de screenreader goed maken
+- Ik wil weten hoe ik de knoppen beter kan centreren en de specifieke vormgeving aan kan passen
+- Weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier
+- Hoe kan ik de screenreader goed maken
 
 Merle:
 - Hoe kan ik ervoor zorgen dat de carousel iedere keer 1 foto opschuift?
 - Hoe kan ik op een nette manier fontface gebruiken om nieuwe fonts en font weights toe te voegen?
-  
+
+
+
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- Iconen op de juiste plaats dmv grid.
+- De bewegende slider > code van Merle.
 
 </details>
 
