@@ -75,7 +75,7 @@ Nike website > https://www.nike.com/nl/
   <img src="readme-images/FED_breakdown1.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/items" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/itemsnike.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/menu.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
