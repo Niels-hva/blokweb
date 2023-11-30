@@ -88,7 +88,7 @@ Nike website > https://www.nike.com/nl/
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details >
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -102,7 +102,6 @@ Bezig geweest met de bovenkant van de website en de eerste knoppen.
 samen met je groepje opstellen
 
 Quinten:
-
 - Moet een form om mee te zoeken in de header of er buiten?
 - Hoe maak ik dingen klikbaar zonder meer dan 1 html pagina?
 - Hoe spreek ik mijn gewenste images aan? Ze zitten allemaal boven een h3 dus mis kan ik daar wat mee.
@@ -137,21 +136,38 @@ Merle:
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben ver gekomen met de homepagina van mijn website, het belangrijkste is nog om de footer toe te voegen, en de iconen in mijn navbar te verbeteren.
+
+  <img src="readme-images/nike1.png" width="375px" alt="screenshot van de homepage van mijn website">
+
+
+  <img src="readme-images/nike2.png" width="375px" alt="screenshot van de homepage van mijn website">
+
+
+  <img src="readme-images/nike3.png" width="375px" alt="screenshot van de homepage van mijn website">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Quinten:
+
+
+Ahmadriza:
+
+
+Niels:
+- Hoe ik de horizontale box met text die automatisch beweegt maak
+- Hoe ik de footer apart aanspreek zonder de code al te veel aan te passen.
+- Wanneer nou button en wanneer een link (precieze verschil)
+- nth of type mag dat steeds?
+
+Merle:
+
 
 
   ### Verslag van meeting
