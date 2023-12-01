@@ -158,7 +158,9 @@ Quinten:
 
 
 Ahmadriza:
-
+- in m’n 3e section beter grid of flex gebruiken (responsieve)
+- ik wil m’n video automatisch laten afspelen
+- Mijn nav ook zichtbaar houden tijdens scrollen hiervoor position fixed/absolute?
 
 Niels:
 - Hoe ik de horizontale box met text die automatisch beweegt maak
@@ -167,7 +169,8 @@ Niels:
 - nth of type mag dat steeds?
 
 Merle:
-
+- Ik krijg met flexbox en grid mijn ‘li’ niet gecentreerd en op de plek waar ik hem wil, hoe kan ik dit oplossen?
+- Wat is een mooie volgorde om mijn css in te schrijven? Sanne liet zien welke volgorde hij gebruikte, en hoe weet ik precies wat er onder welke categorie valt?
 
 
   ### Verslag van meeting
