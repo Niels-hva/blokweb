@@ -155,7 +155,9 @@ Merle:
   samen met je groepje opstellen
 
 Quinten:
-
+- Meer duidelijkheid over het inzetten van flexbox op bepaalde elemente
+- De fonts van sanrio er in krijgen, zijn moeilijk te vinden
+- De form over de hele breedte te laten spannen
 
 Ahmadriza:
 - in m’n 3e section beter grid of flex gebruiken (responsieve)
