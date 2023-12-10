@@ -1,0 +1,382 @@
+
+/* ... (your existing code) ... */
+
+
+/* eind */
+
+
+/* main ul {
+	display: flex;
+	justify-content: center;
+	gap: 4em;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+} */
+
+
+
+
+
+
+/* css vanaf 25% banner */
+main section:nth-of-type(1){
+	text-align: center;
+	background-color:var(--generalBackground);
+}
+
+main section:nth-of-type(1) p {
+	font-family: Helvetica Now Text;
+	color:var(--headingColor);
+
+}
+
+main section:nth-of-type(1) button {
+	color:var(--button-color);
+	background-color: var(--button-background-color);
+	text-decoration: none;
+	height: 3em;
+	border-radius: 2em;
+	display: inline-block;
+	padding: .5em 1em;
+	font-family: Helvetica-Now-Text;
+	margin-bottom: 1em;
+}
+
+section:nth-of-type(1) button:hover {
+	/* standaard verandert de cursor niet :-( */
+	cursor:default;
+	background-color:var(--button-background-hover-color);
+  }
+
+  section:nth-of-type(1) button:active {
+	background-color:var(--button-background-active-color);
+  }
+
+main section:nth-of-type(1) li {
+	list-style-type: none;
+}
+
+main section:nth-of-type(1) img {
+	display: flex;
+	justify-content: center;
+	max-width: 100%;
+	height: auto;
+	margin-top: 0em;
+}
+
+
+main section:nth-of-type(1) li img {
+	display: flex;
+	justify-content: center;
+	max-width: 100%;
+	height: auto;
+	margin-top: 0em;
+}
+
+
+
+/* css bestsellers --------------------------------   */
+
+
+main section:nth-of-type(2) {
+	width: 100%;
+
+ }
+ 
+ main section:nth-of-type(2) h2 {
+	font-family: Helvetica Now Text;
+	text-align: left;
+	font-weight: 900;
+	font-size: 1.9em;
+	line-height: 1em;
+	margin-left: .7em;
+
+ }
+ 
+ main section:nth-of-type(2) ul {
+	display: flex;
+	list-style-type: none;
+	justify-content: flex-start;
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+	overscroll-behavior-x: contain;
+	gap: 1em;
+	margin-left: -1.2em;
+
+ }
+ 
+main  section:nth-of-type(2) li {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	scroll-snap-stop: always;
+	scroll-snap-align: center;
+ }
+ 
+ main  section:nth-of-type(2) li h3 {
+	font-family: Helvetica Now Text;
+	text-align: left;
+	font-weight: 900;
+	font-size: 1em;
+	line-height: .1em;
+
+ }
+
+ main  section:nth-of-type(2) li h4 {
+	font-family: Helvetica Now Text;
+	color:var(--Colorh4);	
+	text-align: left;
+	font-weight: lighter;
+	font-size: 1em;
+	line-height: .1em;
+	margin-top: .3em;
+	margin-bottom: .8em;;
+ }
+
+
+main section:nth-of-type(2) img {
+	width: 20em;
+	border: none;
+	order: -1;
+ }
+ 
+/* css ontdek meer --------------------------------   */
+
+main section:nth-of-type(3) {
+	width: 100%;
+
+}
+
+main section:nth-of-type(3) h2 {
+	font-family: Helvetica Now Text;
+	text-align: left;
+	font-weight: 900;
+	font-size: 1.9em;
+	line-height: 1em;
+	margin-left: .7em;
+}
+
+
+section:nth-of-type(3) ul {
+	display: flex;
+	list-style-type: none;
+	align-items: flex-start;
+	justify-content: flex-start;
+	/* Zorg ervoor dat de inhoud helemaal links wordt uitgelijnd */
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+	overscroll-behavior-x: contain;
+	gap: 1em;
+	margin-left: -1.5em;
+}
+
+
+
+section:nth-of-type(3) li {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	scroll-snap-stop: always;
+	scroll-snap-align: center;
+}
+
+section:nth-of-type(3) img {
+	margin: 5px;
+	width: 20em;
+	border: none;
+	order: -1;
+
+}
+
+/* test met knop over plaatje */
+
+
+section:nth-of-type(3) a {
+	position: absolute;
+	left: 1em;
+	width: 5.7em;
+	bottom: 1em;
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 1em;
+	margin: 0;
+	padding: .5em;
+	background-color: white;
+}
+
+
+/* css ontdek per sport --------------------------------   */
+
+section:nth-of-type(4) {
+	width: 100%;
+
+}
+
+/* section:nth-of-type(4) h2 {
+	font-family: Helvetica Now Text;
+	color: var(--color-text-h2);
+	text-align: left;
+	font-weight: 900;
+	font-size: 1.9em;
+	margin: 1.7em 1em 1em 1em;
+	line-height: 1em;
+} */
+
+section:nth-of-type(4) h3 {
+	font-family: Helvetica Now Text;
+	font-weight: 300;
+	
+
+}
+
+main section:nth-of-type(4) h2 {
+	font-family: Helvetica Now Text;
+	font-weight: 300;
+	margin-left: .7em;
+
+	
+
+}
+
+main section:nth-of-type(4) ul {
+	display: flex;
+	list-style-type: none;
+	align-items: flex-start;
+	justify-content: flex-start;
+	/* Zorg ervoor dat de inhoud helemaal links wordt uitgelijnd */
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+	overscroll-behavior-x: contain;
+	gap: 1em;
+	margin-left: -1.2em;
+
+}
+
+
+
+section:nth-of-type(4) li {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	scroll-snap-stop: always;
+	scroll-snap-align: center;
+}
+
+section:nth-of-type(4) img {
+	margin: 5px;
+	width: 20em;
+	border: none;
+	order: -1;
+
+}
+
+
+
+/* css sectie ontdek onze apps */
+section:nth-of-type(5){
+
+	width: 100%;
+	margin-left: 1em;
+
+}
+
+
+
+section:nth-of-type(5) ul {
+	display: flex;
+	text-align: center;
+	margin-bottom: 2em;
+	list-style-type: none;
+	padding-left: 0;
+
+	flex-direction: column;
+	align-items: center;
+	/* Optioneel: dit centreert de items in het midden van de sectie */
+}
+
+section:nth-of-type(5) li {
+	position: relative;
+	margin-bottom: .3em;
+	padding-right: 2em;
+
+}
+
+section:nth-of-type(5) img {
+	width: 100%;
+	border: none;
+	order: -1;
+	
+
+}
+
+section:nth-of-type(5) h2 {
+	font-family: Helvetica Now Text;
+	font-weight: 300;
+	text-align: left;
+
+}
+
+section:nth-of-type(5) a {
+	position: absolute;
+	left: 1em;
+	width: 5.7em;
+	bottom: 3em;
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	color: black;
+border-radius: 1em;
+	margin: 0;
+	padding: .5em;
+	background-color: white;
+	text-decoration: none;
+}
+
+section:nth-of-type(5) h3 {
+	position: absolute;
+	left: 1em;
+	width: auto;
+	bottom: 4em;
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	font-size: 1.4em;
+	color: white;
+
+}
+
+
+
+
+section:nth-of-type(6) p {
+	margin-top: 6em; 
+	margin-left: -7em;
+	color: gray;
+	font-family: Nike TG, sans-serif;
+	font-size: .7em;
+  }
+  
+ 
+
+
+section:nth-of-type(6) ul{
+	padding-bottom: 1.5em;
+	list-style: none;
+	padding-left: 1.2em;	
+}
+
+section:nth-of-type(6) ul a{
+	text-align: left;
+
+	font-family: Helvetica Now Text;
+	font-size: 1.2em;
+	line-height: 3em;
+	font-weight: bold;
+	color:var(--headingColor);
+	text-decoration: none;
+
+
+}
+
