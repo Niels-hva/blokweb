@@ -1,0 +1,143 @@
+/* resultaten sectie */
+main section:nth-of-type(1) {
+	width: 100%;
+	/* background-color: rgb(253, 253, 253); */
+	border-bottom: .08em solid rgb(195, 195, 195);
+	margin-left: 1em;
+}
+
+main section:nth-of-type(1) a {
+	width: 100%;
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	font-size: .6em;
+	color: var(--headingColor);
+	text-decoration: none;
+}
+
+main section:nth-of-type(1) li {
+	list-style-type: none;
+}
+
+
+main section:nth-of-type(1) p {
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	color: var(--headingColor);
+}
+
+main section:nth-of-type(1) h2 {
+	font-family: Helvetica Now Text;
+	font-weight: bold;
+	font-size: 1.3em;
+	/* color: rgb(0, 0, 0); */
+}
+
+/* flex menuutjes */
+main section:nth-of-type(1) ul {
+	display: flex;
+	list-style-type: none;
+	gap: 1.3em;
+	margin-left: -2.5em;
+}
+
+main section:nth-of-type(1) li {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	scroll-snap-stop: always;
+	scroll-snap-align: center;
+}
+
+/* resultaten sectie */
+main section:nth-of-type(2) {
+	width: 100%;
+	border-bottom: .08em solid rgb(195, 195, 195);
+}
+
+main section:nth-of-type(2) h2 {
+	font-family: Helvetica Now Text;
+	color: black;
+	text-align: left;
+	font-weight: 100;
+	font-size: 1em;
+	line-height: 1em;
+	margin-left: .6em;
+}
+
+main section:nth-of-type(2) ul {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1em;
+
+	margin: 0;
+	padding: 1em;
+	list-style: none;
+}
+
+main section:nth-of-type(2) li {
+	display: flex;
+	flex-direction: column;
+}
+
+main section:nth-of-type(2) li h3 {
+	font-family: Helvetica Now Text;
+	text-align: left;
+	font-weight: 900;
+	font-size: 1em;
+	line-height: .1em;
+}
+
+main section:nth-of-type(2) li h4 {
+	font-family: Helvetica Now Text;
+	color: lightgray;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 1em;
+	line-height: .1em;
+	margin-top: .3em;
+	margin-bottom: .8em;
+	;
+}
+
+
+main section:nth-of-type(2) img {
+	width: 100%;
+	border: none;
+	order: -1;
+}
+
+section:nth-of-type(2) li:nth-of-type(5) {
+	position: relative;
+}
+
+section:nth-of-type(2) li:nth-of-type(5) h2 {
+	font-family: Nike Futura ND;
+	font-size: 1.5em;
+	text-decoration: none;
+	text-transform: uppercase;
+
+	position: absolute;
+	bottom: 3em;
+}
+
+
+section:nth-of-type(2) li:nth-of-type(5) p {
+	font-family: Helvetica Now Text;
+	font-size: .8em;
+	padding: 1em;
+	text-decoration: none;
+
+	position: absolute;
+	bottom: 1.8em;
+}
+
+section:nth-of-type(2) li:nth-of-type(5) a {
+	font-family: Helvetica Now Text;
+	font-size: .8em;
+	font-weight: bold;
+	padding: 1em;
+	text-decoration: none;
+	position: absolute;
+	bottom: .5em;
+}
