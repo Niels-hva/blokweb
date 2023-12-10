@@ -289,7 +289,7 @@ Ik vond het erg lastig om in korte tijd een zo goed mogelijk werkende website in
 Ook zijn er wat kleine dingen waardoor niet alles helemaal netjes staat. Ik ben in het begin redelijk rommelig begonnen met mijn code en daardoor werd het later steeds moeilijker om alles goed te volgen. 
 
 Verder merk ik dat ik eindelijk redelijk snap wat ik aan het doen ben, het is dan leuk om bezig te zijn met coderen alleen wordt je dan toch erg beperkt door de tijd om er echt iets goeds van te maken. Voor mijn gevoel heb ik de meeste elementen er wel in staan maar heb ik helaas niet echt iets extra's toe kunnen voegen aan mijn website. Als ik bijvoorbeeld nog een week had zou ik hier veel meer in gaan experimenteren en ontdekken.
-  <img src="readme-images/footer.png" width="375px" alt="Footer">
+  <img src="readme-images/Footer.png" width="375px" alt="Footer">
   <img src="readme-images/Footer_oud_werkend_CSS.png" width="375px" alt="Oude css code van de footer.">
   <img src="readme-images/Footer_oud_werkend_HTML.png" width="375px" alt="Oude html code van de footer.">
 
