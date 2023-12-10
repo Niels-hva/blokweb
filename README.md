@@ -257,7 +257,13 @@ Ahmadriza:
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+ 
+<img src="readme-images/home1.png" width="375px" alt="Homepagina van mijn website.">
+<img src="readme-images/home2.png" width="375px" alt="Homepagina van mijn website.">
+<img src="readme-images/home3.png" width="375px" alt="Homepagina van mijn website.">
+<img src="readme-images/home4.png" width="375px" alt="Homepagina van mijn website.">
+<img src="readme-images/detail1.png" width="375px" alt="Detailpagina van mijn website.">
+<img src="readme-images/detail2.png" width="375px" alt="Detailpagina van mijn website.">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -273,8 +279,7 @@ Verder zijn de foto's goed weergegeven en is het ook gelukt dat je niet op gekke
 Ook vond ik het leuk om te zien dat het redelijk eenvoudig was om verschillende soorten tekst boven een plaatje te zetten. Dit was iets waarvan ik geen idee had hoe het zou moeten, maar dankzij de opdrachten in de les wist ik nu hoe het moest en ging dat vrij snel.
 
 Tot slot vond ik het werken met meerdere css pagina's erg handig, vooraf dacht ik dat dat juist vervelend zou zijn maar dit zorgde voor veel meer overzicht. Al zat ik soms wel even in de verkeerde css pagina iets te stylen en vroeg me dan af waarom het niet werkte oeps...
-  <img src="readme-images/Nike_Home.png" width="375px" alt="Homepagina van mijn website.">
-  <img src="readme-images/Nike_details.png" width="375px" alt="Details pagina van mijn website.">
+  
   <img src="readme-images/tekst_over_plaatje.png" width="375px" alt="Reclame stukje, tekst over foto.">
 
 
